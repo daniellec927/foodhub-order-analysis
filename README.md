@@ -39,7 +39,11 @@ pip install -r requirements.txt
 jupyter notebook FDS_Project.ipynb
 ```
 
-The notebook expects the dataset at `data/foodhub_order.csv`.
+## Dataset
+
+The dataset is **not included** in this repository. To try it yourself, download the
+**FoodHub order data** from [Kaggle](https://www.kaggle.com/datasets/andrewtoh78/foodhub-order)
+and place it at `data/foodhub_order.csv`.
 
 ## Repository layout
 
